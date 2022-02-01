@@ -4,7 +4,7 @@
 
 ## Fully Responsive Restaurant Website with Modern UI and UX in ReactJS
 
-(Live Site)[https://ms-restaurant-ger.netlify.app/]
+[Live Site](https://ms-restaurant-ger.netlify.app/)
 
 - React functional components and their reusability
 - React file and folder structure
